@@ -1260,6 +1260,7 @@ hr {
   z-index: -1;
   background-repeat: no-repeat;
 }
+
 .header-transparent {
   position: absolute;
   top: 0;
@@ -1489,7 +1490,7 @@ hr {
   margin-bottom: 20px;
 }
 .visit-tailor-area .tailor-offers {
-  background-image: url(/N.png);
+  background-image: url(/images.jpeg);
   background-size: 100%;
   background-size: cover;
   background-repeat: no-repeat;
